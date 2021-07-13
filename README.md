@@ -27,8 +27,8 @@ Cabeçalho do site da startup.
 ![Aba de *carousel*](https://i.imgur.com/y2ZqTqi.png)
 
 ## Código
-Para acessar o código:
-[HTML](https://github.com/VDFerreira/Tindog-AngelaYu/blob/main/index.html)
+Para acessar o código:<br>
+[HTML](https://github.com/VDFerreira/Tindog-AngelaYu/blob/main/index.html)<br>
 [CSS](https://github.com/VDFerreira/Tindog-AngelaYu/blob/main/css/styles.css)
 
 ## Agradecimentos
